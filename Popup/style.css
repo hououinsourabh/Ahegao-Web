@@ -3,6 +3,13 @@
   display: block;
   font-size: 14px;
   width: 300px;
+  height: 400px;
+  background: black;
+}
+
+h1 {
+  color: white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 button {

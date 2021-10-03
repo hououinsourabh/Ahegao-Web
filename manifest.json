@@ -1,7 +1,7 @@
 {
     "manifest_version" : 2,
 
-    "name" : "Dev Rapter Extension",
+    "name" : "Ahegao Web",
 
     "version" : "1.0",
 
@@ -24,5 +24,8 @@
         "default_popup" : "Popup/index.html"
     },
 
-    "permissions": ["tabs"]
+    "permissions": [
+        "tabs",
+        "storage"
+    ]
 }
